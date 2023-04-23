@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js , PHP , WordPress , Magneto**
 
-- 💬 Ask me about **react,PHP,Wordpress**
+- 💬 Ask me about **React.js , PHP , WordPress**
 
 - 📫 How to reach me **omarmohamedhussein1@outlook.com**
 
