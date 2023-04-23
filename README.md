@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
 <h3 align="center">A passionate frontend developer | CMS developer |PHP developer from Egypt</h3>
-<img align="right alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"
+<img align="right alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🔭 I’m currently working on **graduation WordPress Project**
 
 - 🌱 I’m currently learning **React.js , PHP , WordPress , Magneto**
 
 - 💬 Ask me about **react,PHP,Wordpress**
+
+- 📫 How to reach me **omarmohamedhussein1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
